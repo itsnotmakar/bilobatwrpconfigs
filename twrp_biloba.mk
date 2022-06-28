@@ -19,7 +19,7 @@ $(call inherit-product, vendor/omni/config/gsm.mk)
 
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := biloba
-PRODUCT_NAME := omni_biloba
+PRODUCT_NAME := twrp_biloba
 PRODUCT_BRAND := Redmi
 PRODUCT_MODEL := biloba
 PRODUCT_MANUFACTURER := xiaomi
