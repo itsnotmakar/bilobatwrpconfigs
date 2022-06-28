@@ -5,6 +5,6 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-add_lunch_combo omni_biloba-user
-add_lunch_combo omni_biloba-userdebug
-add_lunch_combo omni_biloba-eng
+add_lunch_combo twrp_biloba-user
+add_lunch_combo twrp_biloba-userdebug
+add_lunch_combo twrp_biloba-eng
